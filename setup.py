@@ -4,7 +4,7 @@
 NAME = "ZenPacks.MJW.BarracudaMonitor"
 VERSION = "1.0"
 AUTHOR = "Matt Whitney"
-LICENSE = "LGPL"
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.MJW', 'ZenPacks.MJW.BarracudaMonitor']
 PACKAGES = ['ZenPacks', 'ZenPacks.MJW', 'ZenPacks.MJW.BarracudaMonitor']
 INSTALL_REQUIRES = []
